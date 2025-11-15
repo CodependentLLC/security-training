@@ -47,7 +47,7 @@ Suggested banner content:
 
 ### After Action Review (AAR)
 
-![After Action Review](docs/aar-view.png)
+[After Action Review](docs/aar-view.png)
 
 - Timeline of events
 - Markers, chat, and statuses
