@@ -27,7 +27,7 @@ Suggested banner content:
 
 ### Solo Scenario – OODA Loop Trainer
 
-![Solo Scenario – OODA Loop Trainer](docs/solo-ooda.png)
+[Solo Scenario – OODA Loop Trainer](docs/solo-ooda.png)
 
 - Timed decision steps
 - OODA-focused questions
@@ -37,7 +37,7 @@ Suggested banner content:
 
 ### Team Coordination – Shared Board & Comms
 
-![Team Coordination – Shared Board & Comms](docs/team-session.png)
+[Team Coordination – Shared Board & Comms](docs/team-session.png)
 
 - Shared marker board using `BroadcastChannel`
 - Role-based text chat
