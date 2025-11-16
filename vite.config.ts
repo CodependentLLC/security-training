@@ -1,13 +1,10 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  // resolve: {
-  //   alias: {
-  //     "@": path.resolve(__dirname, "src")
-  //   }
-  // },
-  base: "/security-training/",
+  base: "/security-training/",   // 👈 repo name, between slashes
+  build: {
+    outDir: "dist",              // 👈 we'll deploy from docs/ to avoid confusion
+  },
 });
